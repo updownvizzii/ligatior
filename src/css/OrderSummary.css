@@ -1,0 +1,21 @@
+.order-summary {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .order-summary h3 {
+    margin-bottom: 15px;
+  }
+  
+  .order-summary p {
+    margin-bottom: 5px;
+  }
+  
+  .order-summary h4 {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
